@@ -22,15 +22,15 @@
 				<key>invisibles</key>
 				<string>#E0E0E0</string>
 				<key>lineHighlight</key>
-				<string>#EDEDED</string>
+				<string>#eeeeee</string>
 				<key>selection</key>
-				<string>#B5D5FF</string>
+				<string>#aaceff</string>
 				<key>selectionBorder</key>
-				<string>#B5D5FF</string>
+				<string>#aaceff</string>
 				<key>inactiveSelection</key>
-				<string>#D4D4D4</string>
+				<string>#c2d0dc</string>
 				<key>findHighlight</key>
-				<string>#F4DE88</string>
+				<string>#f8e994</string>
 				<key>findHighlightForeground</key>
 				<string>#000000</string>
 			</dict>
@@ -150,8 +150,6 @@
 			<string>constant.language, support.constant, variable.language</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#ffffff</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
@@ -239,8 +237,6 @@
 			<string>constant.numeric, constant</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#ffffff</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
@@ -267,8 +263,6 @@
 			<string>constant.character, string</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#ffffff</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
@@ -295,8 +289,6 @@
 			<string>constant.character.escape</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#ffffff</string>
 				<key>fontStyle</key>
 				<string> bold</string>
 				<key>foreground</key>
@@ -336,8 +328,6 @@
 			<string>string source, text source</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string></string>
 				<key>foreground</key>
 				<string>#434343</string>
 			</dict>
@@ -371,8 +361,6 @@
 			<string>entity.name.tag</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#ffffff</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
@@ -438,8 +426,6 @@
 			<string>meta.tag string.quoted, meta.tag string.quoted constant.character.entity</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#FFFFFF</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
@@ -684,6 +670,44 @@
 				<string>#434343</string>
 			</dict>
 		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Embedded PHP</string>
+			<key>scope</key>
+			<string>source.php.embedded.block.html</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#F2F2F2</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Embedded CSS</string>
+			<key>scope</key>
+			<string>source.css.embedded.html</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#FFFFF0</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>Embedded JavaScript</string>
+			<key>scope</key>
+			<string>source.js.embedded.html</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#ECFFFF</string>
+			</dict>
+		</dict>
+
+
 	</array>
 	<key>uuid</key>
 	<string>84D815C0-956B-11E3-A5E2-0800200C9A66</string>
