@@ -5,7 +5,7 @@ Blank Expression is a color scheme for Sublime Text 2.
 
 To install the scheme, Preferences > Browse Packages, create a new folder and save the file in there. Then find it in Preferences > Color Scheme.
 
-![Screenshot](http://pidg.github.io/demo2.png)
+![Screenshot](http://pidg.github.io/demo3.png)
 
 Blank Expression has a simple palette and minimal background highlighting, and works well for those working on HTML, CSS, JavaScript and PHP. It probably also works with other languages!
 
