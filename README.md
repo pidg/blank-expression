@@ -3,4 +3,4 @@ blank-expression
 
 Blank Expression is a theme for Sublime Text 2.
 
-![Screenshot](pidg.github.io/demo.jpg)
+![Screenshot](https://raw2.github.com/pidg/blank-expression/master/blankexp.png)
