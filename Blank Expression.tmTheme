@@ -672,14 +672,14 @@
 		</dict>
 
 		<dict>
-			<key>name</key>
+		<key>name</key>
 			<string>Embedded PHP</string>
 			<key>scope</key>
 			<string>source.php.embedded.block.html</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#F2F2F2</string>
+				<string>#FFF4F4</string>
 			</dict>
 		</dict>
 
@@ -691,7 +691,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FFFFF0</string>
+				<string>#FFFFF1</string>
 			</dict>
 		</dict>
 
@@ -703,7 +703,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#ECFFFF</string>
+				<string>#F1FFFF</string>
 			</dict>
 		</dict>
 
