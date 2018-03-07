@@ -675,7 +675,7 @@
 		<key>name</key>
 			<string>Embedded PHP</string>
 			<key>scope</key>
-			<string>source.php.embedded.block.html</string>
+			<string>source.php</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
@@ -687,7 +687,7 @@
 			<key>name</key>
 			<string>Embedded CSS</string>
 			<key>scope</key>
-			<string>source.css.embedded.html</string>
+			<string>source.css</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
@@ -699,7 +699,7 @@
 			<key>name</key>
 			<string>Embedded JavaScript</string>
 			<key>scope</key>
-			<string>source.js.embedded.html</string>
+			<string>source.js</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
