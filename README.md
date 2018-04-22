@@ -1,7 +1,7 @@
 Blank Expression
 ================
 
-Blank Expression is a colour scheme for Sublime Text 2.
+Blank Expression is a colour scheme for Sublime Text 3.
 
 To install the scheme, Preferences > Browse Packages, create a new folder and save the file in there. Then find it in Preferences > Color Scheme.
 
